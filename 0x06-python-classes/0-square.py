@@ -2,10 +2,10 @@
 
 # 0-square.py
 
+"""Define a class Square."""
+
+
 class Square:
 
-    def __init__(self):
-
-def main:
-
-main()
+    """Represent a square."""
+    pass
