@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # 3-square.py
 
-    """Define Square"""
+    """Define a class Square"""
 
 class Square:
     
