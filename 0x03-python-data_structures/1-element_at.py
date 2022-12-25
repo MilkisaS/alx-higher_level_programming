@@ -7,14 +7,14 @@ def element_at(my_list, idx):
     """Definition of args and value"""
     if idx < 0:
         return None
-    else if idx > len(my_list):
+    if idx > len(my_list):
         return None
     else:
 	return my_list[idx]	
     
-    """This is going to return the element of index	
-    
+    """ This is the description of elements used
+
     Args:
-    my_list: is the list name
-    idx: is the index number
+    my_list: The name of the list
+    idx: The index number to retrieve the element
     """
