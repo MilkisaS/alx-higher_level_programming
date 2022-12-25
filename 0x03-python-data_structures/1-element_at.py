@@ -10,11 +10,4 @@ def element_at(my_list, idx):
     if idx >= len(my_list):
         return None
     else:
-	return my_list[idx]	
-    
-    """ This is the description of elements used
-
-    Args:
-    my_list: The name of the list
-    idx: The index number to retrieve the element
-    """
+	return my_list[idx]
