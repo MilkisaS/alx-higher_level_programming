@@ -4,7 +4,6 @@
 """ Description of the prototype"""
 
 def element_at(my_list, idx):
-    """Definition of args and value"""
     if idx < 0:
         return None
     if idx >= len(my_list):
